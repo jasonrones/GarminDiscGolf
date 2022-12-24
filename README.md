@@ -1,1 +1,1 @@
-# GarminDiscGolfApp
+# GarminDiscGolf
